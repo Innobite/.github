@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://innobite.io/">
-    <img src="https://innobite.io/assets/img/innobiteLogo.png" alt="Innobite logo" width="200">
+    <img src="https://raw.githubusercontent.com/Innobite/.github/main/profile/logoProfile.png" alt="Innobite logo" width="200">
   </a>
 </p>
 
